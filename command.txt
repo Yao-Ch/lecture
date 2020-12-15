@@ -15,3 +15,4 @@ echo              #add lines to the file
 --color-words     #list the change in color, no space between color and the dash
 git log -1        #list only last commit
 git log --oneline #list each commit with oneline
+text again
