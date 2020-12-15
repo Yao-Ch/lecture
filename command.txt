@@ -7,7 +7,8 @@ nano filename.txt #create a text file
 git add filename. #add the file to git to track
 git commit -m'new filename afterchanges' #name the new version to git
 cat filename.txt  #list the content of the file
-git diff          #list the change of the file
+git diff          #list the change of the file before commited or added to the staging 
+git diff --staged #compare the change of file added on the staging with last commited one
 git status        #check the status of all the files in this directory
 git log           #track the version
 echo              #add lines to the file
