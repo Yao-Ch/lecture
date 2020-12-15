@@ -1,4 +1,3 @@
-a test again to check the head
 cd ..             #return to upper level directory
 cd directoryname  #go to the given directory
 mkdir             #make a new folder
@@ -17,3 +16,5 @@ echo              #add lines to the file
 git log -1        #list only last commit
 git log --oneline #list each commit with oneline
 git commit --author#could name collaborators as author to track the change(email need to be changed also)
+git dif HEAD filename.txt #list the difference between the new changed one with the latest commtied version
+git checkout HEAD command.txt #restore to a older version
