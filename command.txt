@@ -12,4 +12,4 @@ git diff --staged #compare the change of file added on the staging with last com
 git status        #check the status of all the files in this directory
 git log           #track the version
 echo              #add lines to the file
---color -words    #list the change in color
+--color-words     #list the change in color, no space between color and the dash
