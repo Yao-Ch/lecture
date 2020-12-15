@@ -1,3 +1,4 @@
+a test again to check the head
 cd ..             #return to upper level directory
 cd directoryname  #go to the given directory
 mkdir             #make a new folder
