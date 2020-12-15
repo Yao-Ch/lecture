@@ -1,6 +1,11 @@
-cd ..            # return to upper level directory
-cd directoryname #go to the given directory
-mkdir            #make a new folder
-ls               #list all files in this directory
-git init         #make this directory a Git repository
-
+cd ..             #return to upper level directory
+cd directoryname  #go to the given directory
+mkdir             #make a new folder
+ls                #list all files in this directory
+git init          #make this directory a Git repository
+nano filename.txt #create a text file 
+git add filename. #add the file to git to track
+git commit -m'new filename afterchanges' #name the new version to git
+cat filename.txt  #list the content of the file
+git diff          #list the change of the file
+git status        #check the status of all the files in this directory
