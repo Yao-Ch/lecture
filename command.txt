@@ -9,3 +9,4 @@ git commit -m'new filename afterchanges' #name the new version to git
 cat filename.txt  #list the content of the file
 git diff          #list the change of the file
 git status        #check the status of all the files in this directory
+git log           #track the version
