@@ -19,3 +19,4 @@ git commit --author#could name collaborators as author to track the change(email
 git dif HEAD filename.txt #list the difference between the new changed one with the latest commtied version
 git checkout HEAD command.txt #restore to a older version
 check for the use of github
+so this is the change i made to creat conflict
