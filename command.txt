@@ -18,3 +18,4 @@ git log --oneline #list each commit with oneline
 git commit --author#could name collaborators as author to track the change(email need to be changed also)
 git dif HEAD filename.txt #list the difference between the new changed one with the latest commtied version
 git checkout HEAD command.txt #restore to a older version
+check for the use of github
